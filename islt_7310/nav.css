@@ -14,6 +14,7 @@ padding: 0 35px 0 35px;
 
 .nav > li > a {
 text-decoration: none;
-color: black
+color: #9dbbb4;
 }
 
+.nav > li > a:hover { color: #b3bb9d;}
