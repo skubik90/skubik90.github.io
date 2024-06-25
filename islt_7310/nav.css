@@ -1,12 +1,4 @@
-#nav {
-    display: inline-block;
-    background-color: #a59dbb;
-    border: 5px solid black;
-    width: 150px
+.nav {
+    display: inline
     list-style-type: none;
-    padding 15px 15px 15px 15px;
-    margin-top: 0;
-    text-align: center;
-
-        
 }
