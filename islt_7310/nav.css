@@ -1,4 +1,4 @@
-.nav > li {
+.nav {
     display: inline-block;
     list-style-type: none;
     border: 5px solid black;
