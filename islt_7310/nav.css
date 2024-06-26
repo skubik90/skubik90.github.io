@@ -10,8 +10,8 @@ nav {
 }
 nav p {
     font-family: 'Courier New', Courier, monospace;
-    font-size: 16pt;
-    color: black;
+    font-size: 24pt;
+    color: blueviolet;
     line-height: 50px;
     float: left;
 }
