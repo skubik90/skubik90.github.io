@@ -16,11 +16,11 @@ nav p {
 }
 
 nav ul {
-    float: left;
+    display: flex;
+    justify-content: space-around;
 }
 
 nav ul li {
-    float:left;
     list-style: none;
     color: black;
     font-family: 'Courier New', Courier, monospace;
