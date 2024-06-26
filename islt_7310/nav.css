@@ -1,4 +1,4 @@
-.nav {
+nav {
     background-color: #a59dbb;
     border: 15px solid #9dbbb4;
     color: black;
@@ -10,23 +10,21 @@
     font-size: 16pt;
 }
 
-.nav > li {
+nav > li {
 display: inline-block;
 padding: 0 35px 0 35px;
 }
 
-.nav > li > a {
+nav > li > a {
 text-decoration: none;
 color: black;
 }
-
-.nav > li > a:hover { color: #b3bb9d;}
-
+nav > li > a:hover { color: #b3bb9d;}
 
 
 
 
-.nav > ul > li:hover > ul {
+nav > ul > li:hover > ul {
     display: block;
 }
 
