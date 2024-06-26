@@ -1,6 +1,6 @@
 nav {
     background-color: #a59dbb;
-    border: 40px solid #9dbbb4;
+    border: 20px solid #9dbbb4;
     width: 150px;
     height: 60px;
 }
@@ -18,10 +18,22 @@ nav ul {
     float: left;
 }
 
-nav > ul > li {
+nav ul li {
     float:left;
     list-style: none;
     color: black;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 16pt;
+    font-size: 12pt;
+}
+
+nav ul li a {
+    display: block;
+    text-decoration: none;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12pt;
+    padding: 21px;
+
+
+
 }
