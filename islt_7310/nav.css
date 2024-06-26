@@ -2,17 +2,16 @@ nav {
     background-color: #a59dbb;
     border: 10px solid #9dbbb4;
     width: 100%;
-    height: 100px;
+    height: 200px;
     text-align: center;
 }
 
 nav p {
     font-family: 'Courier New', Courier, monospace;
-    font-size: 18pt;
+    font-size: 12pt;
     color: blueviolet;
-    line-height: 60px;
+    line-height: 100px;
     float: left;
-    
     padding: 0px 20px;
 }
 
