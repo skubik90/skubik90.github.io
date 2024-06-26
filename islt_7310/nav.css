@@ -1,9 +1,9 @@
 nav {
     background-color: #a59dbb;
+    background-size: 200px;
     border: 10px solid #9dbbb4;
     width: 100%;
     height: 150px
-    text-align: center;
 }
 
 nav p {
@@ -34,8 +34,8 @@ nav ul li a {
     color: black;
     font-family: 'Courier New', Courier, monospace;
     font-size: 12pt;
-    padding: 21px;
+    padding: 22px 14px;
+}
 
-
-
+nav ul li a:hover{color:bisque;
 }
