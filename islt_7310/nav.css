@@ -2,7 +2,8 @@ nav {
     background-color: #a59dbb;
     border: 10px solid #9dbbb4;
     width: 100%;
-    height: 60px;
+    height: 100px;
+    text-align: center;
 }
 
 nav p {
@@ -11,6 +12,7 @@ nav p {
     color: blueviolet;
     line-height: 60px;
     float: left;
+    
     padding: 0px 20px;
 }
 
