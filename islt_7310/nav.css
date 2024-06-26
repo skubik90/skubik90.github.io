@@ -1,6 +1,6 @@
 nav {
     background-color: #a59dbb;
-    background-size: 200px;
+    background-size: 175px;
     border: 10px solid #9dbbb4;
     width: 100%;
     height: 150px
@@ -25,7 +25,7 @@ nav ul li {
     color: black;
     font-family: 'Courier New', Courier, monospace;
     font-size: 12pt;
-    
+    position:relative;
 }
 
 nav ul li a {
@@ -35,6 +35,12 @@ nav ul li a {
     font-family: 'Courier New', Courier, monospace;
     font-size: 12pt;
     padding: 22px 14px;
+}
+
+nav ul li ul {
+    display: block;
+    position: absolute;
+   
 }
 
 nav ul li a:hover{color:bisque;
