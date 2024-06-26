@@ -1,9 +1,9 @@
 nav {
     background-color: #a59dbb;
-    background-size: 175px;
+    background-size: 125px;
     border: 10px solid #9dbbb4;
     width: 100%;
-    height: 150px
+    height: 100px
 }
 
 nav p {
@@ -45,6 +45,11 @@ nav ul li ul {
     padding: 14px ;
    
 }
+
+nav ul li ul li { 
+    width: 100px;
+}
+
 
 nav ul li ul li a { 
     padding: 8px 10px;
