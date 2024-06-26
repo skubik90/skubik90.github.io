@@ -21,3 +21,8 @@ color: black;
 }
 
 .nav > li > a:hover { color: #b3bb9d;}
+
+
+nav > ul > li:hover > ul {
+    display: block;
+}
