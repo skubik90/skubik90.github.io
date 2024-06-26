@@ -24,7 +24,7 @@ nav > li > a:hover { color: #b3bb9d;}
 
 
 
-nav > ul > li:hover > ul {
+nav > ul > li > a > ul > li > a:hover {
     display: block;
 }
 
