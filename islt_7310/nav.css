@@ -28,3 +28,8 @@ nav > ul > li:hover > ul {
     display: block;
 }
 
+nav > ul > li > ul > li {
+    list-style: none;
+    text-decoration: none
+    color:black;
+}
