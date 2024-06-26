@@ -21,15 +21,11 @@ color: black;
 }
 nav > li > a:hover { color: #b3bb9d;}
 
-
-
-
-nav > ul > li > a > ul > li > a:hover {
-    display: block;
-}
-
-nav > ul > li > a > ul > li {
+nav > li > li {
     list-style: none;
-  
+
+
 }
+
+
 
