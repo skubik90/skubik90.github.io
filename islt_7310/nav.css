@@ -40,8 +40,15 @@ nav ul li a {
 nav ul li ul {
     display: block;
     position: absolute;
+    background-color: #a59dbb;
    
 }
 
-nav ul li a:hover{color:bisque;
+nav ul li ul li a { 
+    padding: 8px 14px;
 }
+
+nav ul li ul li a:hover {color: bisque;}
+    
+
+nav ul li a:hover {color: bisque;}
