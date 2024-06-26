@@ -1,18 +1,17 @@
 nav {
     background-color: #a59dbb;
     border: 40px solid #9dbbb4;
+    width: 150px;
     height: 60px;
-    text-align: center;
-    padding: 25px 0 25px 0;
-    margin-top: 5px;
 }
 
 nav p {
     font-family: 'Courier New', Courier, monospace;
-    font-size: 24pt;
+    font-size: 18pt;
     color: blueviolet;
     line-height: 50px;
     float: left;
+    padding: 0px 20px;
 }
 
 nav ul {
