@@ -9,6 +9,8 @@ h5 {
         grid-template-columns:1fr 1fr 1fr 1fr;
         grid-gap: 10px;
         background-color:wheat;
+        margin-left: 15%;
+        margin-right: 15%;
       }
       
       .box {
