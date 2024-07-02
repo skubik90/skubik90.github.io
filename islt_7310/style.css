@@ -9,7 +9,8 @@ h5 {
       
       .wrapper {
         display: grid;
-        grid-template-rows: auto;
+        grid-template-rows:1fr 1fr;
+        grid-template-columns: 1fr 1fr;
         grid-gap: 10px;
         background-color:wheat;
         border-color: #2C506B;
