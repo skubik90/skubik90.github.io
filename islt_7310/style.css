@@ -9,7 +9,7 @@ h5 {
         grid-template-columns:1fr 1fr 1fr 1fr;
         grid-gap: 10px;
         background-color:wheat;
-        width: 100%;
+        width:fit-content;
 
       }
       
@@ -31,11 +31,13 @@ h5 {
           }
           .c {
             grid-column: 1 ;
-            grid-row: 2 ;
+            grid-row: 2/3 ;
           }
           .d {
             grid-column: 2;
-            grid-row: 2;
+            grid-row: 2/3;
+            display: flex;
+            justify-content: center;
           }
 
           .e {
