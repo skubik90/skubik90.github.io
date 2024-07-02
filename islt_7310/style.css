@@ -6,11 +6,11 @@ h5 {
       
       .wrapper {
         display: grid;
-        grid-template-rows:1fr 1fr;
-        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 50% 50%;
         grid-gap: 10px;
         background-color:wheat;
         border-color: #2C506B;
+        border-width: 20px;
 
       }
       
