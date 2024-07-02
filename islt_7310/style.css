@@ -22,4 +22,8 @@ h5 {
         margin-top: 15px;
         }
 
+        image {
+        display: flex;
+        justify-content: center;
+           }
     
