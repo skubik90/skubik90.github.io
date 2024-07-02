@@ -38,7 +38,7 @@ h5 {
           }
 
           .e {
-            grid: column 1/4;
+            grid-column: 1/4;
             grid-row: 4;
 
 
