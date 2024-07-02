@@ -3,9 +3,6 @@ h5 {
     font-size: 16pt;
     color:chartreuse}
 
-    body {
-        margin: 100px;
-      }
       
       .wrapper {
         display: grid;
@@ -14,7 +11,7 @@ h5 {
         grid-gap: 10px;
         background-color:wheat;
         border-color: #2C506B;
-        color: black;
+
       }
       
       .box {
