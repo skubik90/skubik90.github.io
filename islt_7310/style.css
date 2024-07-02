@@ -9,6 +9,8 @@ h5 {
         grid-template-columns:50% 50%;
         grid-gap: 10px;
         background-color:wheat;
+        width: 95%;
+        height: auto;
 
       }
       
@@ -19,6 +21,7 @@ h5 {
         border: 10px solid #9dbbb4;
         display: flex;
         justify-content: center;
+        margin-top: 15px;
         }
 
     
