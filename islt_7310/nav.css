@@ -66,10 +66,30 @@ nav ul li a:hover {color: bisque;}
     height: 32px;
 }
 
+
+
 @media (max-width: 640px) {
-    header {
-        position: absolute;
+   
+    nav {
+        background-color:whitesmoke;
+        background-size: 125px;
+        border: 10px solid #9dbbb4;
+        width: 100%;
     }
+
+    nav p {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 14pt;
+        color: blueviolet;
+        line-height: 60px;
+        float: left;
+        padding: 0px;
+    }
+    nav ul {
+        display: flex;
+        justify-content: space-around;
+    }
+    
     #menu-icon {
         display: inline-block;
     }
