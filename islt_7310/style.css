@@ -13,22 +13,7 @@ h5 {
             line-height: 1.25;}
                 }
 
-                    #menu-icon {
-                      background: url(menu-icon.png);
-                      display: hidden;
-                      width: 32px;
-                      height: 32px;
-                    }
-
-                    @media only screen and (max-width: 640px) {
-                      header {
-                        position: absolute;
-                      }
-                    }
-      
-                    #menu-icon {
-                      display: inline-block;
-                    }
+    
 
       .wrapper {
         display: grid;
