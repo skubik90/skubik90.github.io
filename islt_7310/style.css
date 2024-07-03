@@ -137,3 +137,10 @@ h5 {
           }
          
 
+a {
+  text-decoration: none;
+  color:#2C506B;
+
+}
+
+a:hover {color: bisque;}
