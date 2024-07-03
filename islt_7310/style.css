@@ -66,5 +66,24 @@ h5 {
 
           }
 
+          .f {
+            grid-column: 1/6;
+            grid-row: 1;
+            display: flex;
+            justify-content: center;
+            background-color:whitesmoke;
+            border: 10px solid #9dbbb4;
+          }
 
+          .g {  
+            grid-column: 1/6;
+            grid-row: 3;
+            display: flex;
+            justify-content: left;
+            background-color:whitesmoke;
+            border: 10px solid #9dbbb4;
+
+
+
+          }
     
