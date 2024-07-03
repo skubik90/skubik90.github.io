@@ -78,7 +78,26 @@ nav ul li a:hover {color: bisque;}
         width: 35%;
     
     }
+    nav ul li {
+        list-style: none;
+        color: black;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 12pt;
+        position:relative;
+    }
+    nav ul li a {
+        display: block;
+        text-decoration: none;
+        color: black;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 12pt;
+        padding: 22px 14px;
+    }
 
+    nav ul li ul li {
+        text-decoration: none;
+        display: block;
+    }
     nav:hover ul {
         display: block;
  }
@@ -89,14 +108,4 @@ nav ul li a:hover {color: bisque;}
         margin: 0;
     }
 
-    nav ul li ul {
-        display: none;
-        position: absolute;
-        background-color: white;
-        border: 10px solid #9dbbb4;
-        padding: 14px ;
-    }
-        nav ul li ul li a:hover {
-            background-color:#a59dbb
-}
 }
