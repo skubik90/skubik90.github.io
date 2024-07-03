@@ -92,6 +92,7 @@ h5 {
             Grid-row: 3;
             background-color:whitesmoke;
             border: 10px solid #9dbbb4;
+            text-align: center;
           }
 
           .bb {
@@ -99,6 +100,7 @@ h5 {
             Grid-row: 3;
             background-color:whitesmoke;
             border: 10px solid #9dbbb4;
+            text-align: center;
           }
 
           .cc {
@@ -106,7 +108,32 @@ h5 {
             Grid-row: 3;
             background-color:whitesmoke;
             border: 10px solid #9dbbb4;
+            text-align: center;
           }
 
+          .dd {
+            grid-column: 2/3;
+            Grid-row: 4;
+            background-color:whitesmoke;
+            border: 10px solid #9dbbb4;
+            text-align: center;
+          }
+
+          .ee {
+            grid-column: 3/4;
+            Grid-row: 4;
+            background-color:whitesmoke;
+            border: 10px solid #9dbbb4;
+            text-align: center;
+          }
+
+          
+          .ee {
+            grid-column: 4/5;
+            Grid-row: 4;
+            background-color:whitesmoke;
+            border: 10px solid #9dbbb4;
+            text-align: center;
+          }
          
 
