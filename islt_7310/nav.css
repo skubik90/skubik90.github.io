@@ -1,3 +1,5 @@
+@media (max-width: 640px) {
+
 nav {
     background-color: #a59dbb;
     background-size: 125px;
@@ -13,7 +15,6 @@ nav p {
     float: left;
     padding: 0px;
 }
-
 nav ul {
     display: flex;
     justify-content: space-around;
@@ -26,7 +27,6 @@ nav ul li {
     font-size: 12pt;
     position:relative;
 }
-
 nav ul li a {
     display: block;
     text-decoration: none;
@@ -35,7 +35,6 @@ nav ul li a {
     font-size: 12pt;
     padding: 22px 14px;
 }
-
 nav ul li ul {
     display: none;
     position: absolute;
@@ -44,27 +43,21 @@ nav ul li ul {
     padding: 14px ;
    
 }
-
 nav ul li:hover ul {
     display: block;
 }
-
 nav ul li ul li { 
     width: 100px;
 }
 
-
 nav ul li ul li a { 
     padding: 8px 10px;
 }
-
 nav ul li ul li a:hover {
     background-color:#a59dbb
 }
-    
-
 nav ul li a:hover {color: bisque;}
-
+}
 
 #menu-icon {
     background: url(menu-icon.png);
