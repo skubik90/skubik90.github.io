@@ -67,7 +67,7 @@ nav ul li a:hover {color: bisque;}
 
 
 #menu-icon {
-    background:url(menu-icon.png);
+    background: url(menu-icon.png);
     display: hidden;
     width: 32px;
     height: 32px;
