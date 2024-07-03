@@ -78,8 +78,6 @@ h5 {
           .g {  
             grid-column: 1/6;
             grid-row: 3;
-            display: flex;
-            justify-content: left;
             background-color:whitesmoke;
             border: 10px solid #9dbbb4;
 
