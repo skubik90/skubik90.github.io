@@ -30,15 +30,6 @@ h5 {
                       display: inline-block;
                     }
 
-                    nav ul, nav:active ul{
-                      display:none;
-                      position: absolute;
-                      padding: 20px;
-                      right: 10px;
-                      top: 65px;
-                      width: 35%;
-                      }
-                      
       .wrapper {
         display: grid;
         grid-template-columns:1fr 1fr 1fr 1fr 1fr 1fr;
