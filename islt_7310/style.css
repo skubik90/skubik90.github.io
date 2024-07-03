@@ -92,8 +92,6 @@ h5 {
             Grid-row: 3;
             background-color:whitesmoke;
             border: 10px solid #9dbbb4;
-            display: flex;
-            justify-content: center;
           }
 
           .bb {
@@ -101,8 +99,13 @@ h5 {
             Grid-row: 3;
             background-color:whitesmoke;
             border: 10px solid #9dbbb4;
-            display: flex;
-            justify-content: center;
+          }
+
+          .cc {
+            grid-column: 6;
+            Grid-row: 3;
+            background-color:whitesmoke;
+            border: 10px solid #9dbbb4;
           }
 
          
