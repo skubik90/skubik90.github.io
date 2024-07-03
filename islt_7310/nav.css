@@ -7,14 +7,6 @@ nav {
     width: 100%;
 }
 
-nav p {
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 14pt;
-    color: blueviolet;
-    line-height: 60px;
-    float: left;
-    padding: 0px;
-}
 nav ul {
     display: flex;
     justify-content: space-around;
@@ -71,16 +63,16 @@ nav ul li a:hover {color: bisque;}
 @media (max-width: 640px) {
    
     nav {
-        background-color:whitesmoke;
+        background-color: whitesmoke;
         background-size: 125px;
         border: 10px solid #9dbbb4;
         width: 100%;
     }
-
+    
     nav p {
         font-family: 'Courier New', Courier, monospace;
         font-size: 14pt;
-        color: blueviolet;
+        color: black;
         line-height: 60px;
         float: left;
         padding: 0px;
@@ -90,6 +82,45 @@ nav ul li a:hover {color: bisque;}
         justify-content: space-around;
     }
     
+    nav ul li {
+        list-style: none;
+        color: black;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 12pt;
+        position:relative;
+    }
+    nav ul li a {
+        display: block;
+        text-decoration: none;
+        color: black;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 12pt;
+        padding: 22px 14px;
+    }
+    nav ul li ul {
+        display: none;
+        position: absolute;
+        background-color: white;
+        border: 10px solid #9dbbb4;
+        padding: 14px ;
+       
+    }
+    nav ul li:hover ul {
+        display: block;
+    }
+    nav ul li ul li { 
+        width: 100px;
+    }
+    
+    nav ul li ul li a { 
+        padding: 8px 10px;
+    }
+    nav ul li ul li a:hover {
+        background-color:#a59dbb
+    }
+    nav ul li a:hover {color: bisque;}
+
+
     #menu-icon {
         display: inline-block;
     }
