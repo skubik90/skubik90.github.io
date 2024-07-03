@@ -64,3 +64,20 @@ nav ul li ul li a:hover {
     
 
 nav ul li a:hover {color: bisque;}
+
+
+#menu-icon {
+    background:url(menu-icon.png);
+    display: hidden;
+    width: 32px;
+    height: 32px;
+}
+
+@media (max-width: 640px) {
+    header {
+        position: absolute;
+    }
+    #menu-icon {
+        display: inline-block;
+    }
+}
