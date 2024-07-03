@@ -88,36 +88,36 @@ h5 {
 
 
           .aa {
-            grid-column: 1;
-            Grid-row: 2;
+            grid-column: 2;
+            Grid-row: 3;
             background-color:whitesmoke;
             border: 10px solid #9dbbb4;
           }
 
           .bb {
-            grid-column: 2;
-            Grid-row: 2;
+            grid-column: 4;
+            Grid-row: 3;
             background-color:whitesmoke;
             border: 10px solid #9dbbb4;
           }
 
           .cc {
-            grid-column: 3;
-            Grid-row: 2;
+            grid-column: 6;
+            Grid-row: 3;
             background-color:whitesmoke;
             border: 10px solid #9dbbb4;
           }
 
           .dd {
-            grid-column: 4;
-            Grid-row: 2;
+            grid-column: 2;
+            Grid-row: 4;
             background-color:whitesmoke;
             border: 10px solid #9dbbb4;
           }
 
           .ee {
-            grid-column: 5;
-            Grid-row: 2;
+            grid-column: 4;
+            Grid-row: 4;
             Display: flex;
             justify-content: center;
             background-color:whitesmoke;
@@ -126,7 +126,7 @@ h5 {
 
           .ff {
             grid-column: 6;
-            Grid-row: 2;
+            Grid-row: 4;
             background-color:whitesmoke;
             border: 10px solid #9dbbb4;
           }
