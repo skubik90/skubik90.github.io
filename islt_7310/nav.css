@@ -71,11 +71,12 @@ nav ul li a:hover {color: bisque;}
     nav ul, nav:active ul {
         display: none;
         position: absolute;
-        padding: 20px;
         background:whitesmoke;
+        border: 10px solid #9dbbb4;
         right: 10px;
         top: 65px;
         width: 35%;
+        padding: 14px ;
     
     }
     nav ul li {
