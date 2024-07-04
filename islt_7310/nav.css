@@ -74,7 +74,7 @@ li {display: inline-block;
     padding: 10px;
 }
 nav {
-    float: left;
+    float: right;
     padding: 20px;
 }
     #menu-icon {
@@ -90,7 +90,7 @@ nav {
         background-color: #a59dbb;
         border: 10px solid #9dbbb4;
         right: 15px;
-        top: 65px;
+        top: 55px;
         width: 30%;
         padding: 15px;
     
@@ -132,18 +132,4 @@ nav {
         padding: 30px ;
         width: 40%;
     }
-
-    nav ul li:hover ul {
-        display: block;
-    }
-    nav ul li ul li a { 
-        padding: 8px 10px;
-    }
-    nav ul li ul li a:hover {
-        background-color:#a59dbb
-    }
-    nav ul li a:hover {color: bisque;}
-    }
-    
-
-
+}
