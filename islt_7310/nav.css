@@ -51,12 +51,8 @@ nav ul li ul li a:hover {
 nav ul li a:hover {color: bisque;}
 }
 
-#menu-icon {
-    background: url(menu-icon.png);
-    display: hidden;
-    width: 32px;
-    height: 32px;
-}
+
+
 
 
 
@@ -71,6 +67,12 @@ nav ul li a:hover {color: bisque;}
         font-size: 12pt;
     }
 
+    #menu-icon {
+        background: url(menu-icon.png);
+        display: inline-block;
+        width: 32px;
+        height: 32px;
+    }
     #menu-icon {
         display: inline-block;
     }
