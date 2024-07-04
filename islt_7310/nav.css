@@ -126,7 +126,7 @@ nav ul li a:hover {color: bisque;}
         padding: 14px ;
        
     }
-    nav ul li:hover ul {
+    nav ul li ul:hover {
         display: block;
     }
     nav ul li ul li { 
