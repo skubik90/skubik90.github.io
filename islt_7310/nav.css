@@ -130,7 +130,6 @@ nav {
 
     nav ul li ul {
         display: none;
-        position:relative;
         background-color: white;
         border: 10px solid #9dbbb4;
         padding: 14px ;
@@ -139,10 +138,6 @@ nav {
     nav ul li:hover ul {
         display: block;
     }
-    nav ul li ul li { 
-        width: 100px;
-    }
-    
     nav ul li ul li a { 
         padding: 8px 10px;
     }
@@ -153,4 +148,4 @@ nav {
     }
     
 
-}
+
