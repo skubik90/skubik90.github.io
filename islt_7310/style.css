@@ -4,18 +4,6 @@ h5 {
     color:#9dbbb4}
   
 
-
-@media (min-width: 600px) {
-  p {
-    font-size: 1.25rem;}
-  }
-
-  @media (min-width: 800px) {
-    p {
-      font-size: 1.50rem;}
-    }
-
-
       .wrapper {
         display: grid;
         grid-template-columns:1fr 1fr 1fr 1fr 1fr 1fr;
