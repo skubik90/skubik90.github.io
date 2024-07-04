@@ -10,7 +10,6 @@ h5 {
         grid-template-columns:1fr 1fr 1fr 1fr 1fr 1fr;
         grid-gap: 10px;
         background-color:#2C506B;
-
       }
       
       .box {
@@ -79,7 +78,7 @@ h5 {
 
 
           .aa {
-            grid-column: 2/3;
+            grid-column: 1/2;
             Grid-row: 3;
             background-color:whitesmoke;
             border: 10px solid #9dbbb4;
@@ -95,7 +94,7 @@ h5 {
           }
 
           .cc {
-            grid-column: 4/5;
+            grid-column: 5/6;
             Grid-row: 3;
             background-color:whitesmoke;
             border: 10px solid #9dbbb4;
@@ -103,7 +102,7 @@ h5 {
           }
 
           .dd {
-            grid-column: 2/3;
+            grid-column: 1/2;
             Grid-row: 4;
             background-color:whitesmoke;
             border: 10px solid #9dbbb4;
@@ -120,7 +119,7 @@ h5 {
 
           
           .ff {
-            grid-column: 4/5;
+            grid-column: 5/6;
             Grid-row: 4;
             background-color:whitesmoke;
             border: 10px solid #9dbbb4;
