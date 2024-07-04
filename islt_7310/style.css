@@ -15,6 +15,7 @@ h5 {
       font-size: 1.50rem;}
     }
 
+
       .wrapper {
         display: grid;
         grid-template-columns:1fr 1fr 1fr 1fr 1fr 1fr;
