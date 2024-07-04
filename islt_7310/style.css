@@ -39,7 +39,7 @@ h5 {
             border: 10px solid #9dbbb4;
           }
           .d {
-            grid-column: 2/4;
+            grid-column: 3/4;
             grid-row: 3;
             display: flex;
             justify-content: center;
