@@ -136,4 +136,21 @@ nav {
         padding: 14px ;
     }
 
+    nav ul li:hover ul {
+        display: block;
+    }
+    nav ul li ul li { 
+        width: 100px;
+    }
+    
+    nav ul li ul li a { 
+        padding: 8px 10px;
+    }
+    nav ul li ul li a:hover {
+        background-color:#a59dbb
+    }
+    nav ul li a:hover {color: bisque;}
+    }
+    
+
 }
