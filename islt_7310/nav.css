@@ -71,7 +71,6 @@ nav ul li a:hover {color: bisque;}
 ul{list-style: none;
 }
 li {display: inline-block;
-    float:left;
     padding: 10px;
 }
 nav {
@@ -129,6 +128,12 @@ nav {
         margin: 0;
     }
 
-   
+    nav ul li ul {
+        display: none;
+        position:relative;
+        background-color: white;
+        border: 10px solid #9dbbb4;
+        padding: 14px ;
+    }
 
 }
