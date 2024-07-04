@@ -10,8 +10,6 @@ h5 {
         grid-template-columns:1fr 1fr 1fr 1fr 1fr 1fr;
         grid-gap: 10px;
         background-color:#2C506B;
-        max-width: fit-content;
-        background: fixed;
 
       }
       
