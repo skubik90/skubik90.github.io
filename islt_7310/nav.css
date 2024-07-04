@@ -78,7 +78,7 @@ nav {
     padding: 20px;
 }
     #menu-icon {
-        background: url(menu-icon.jpg);
+        background: url(menu-icon.png);
         display: inline-block;
         width: 65px;
         height: 60px;
@@ -89,10 +89,10 @@ nav {
         position: absolute;
         background-color: #a59dbb;
         border: 10px solid #9dbbb4;
-        right: 10px;
+        right: 15px;
         top: 65px;
-        width: 25%;
-        padding: 14px ;
+        width: 30%;
+        padding: 15px;
     
     }
     nav ul li {
