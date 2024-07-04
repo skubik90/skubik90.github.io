@@ -78,7 +78,7 @@ nav ul li a:hover {color: bisque;}
     nav ul, nav:active ul {
         display: none;
         position: absolute;
-        background:whitesmoke;
+        background-color: #a59dbb;
         border: 10px solid #9dbbb4;
         right: 10px;
         top: 65px;
@@ -115,5 +115,28 @@ nav ul li a:hover {color: bisque;}
         padding: 15px 0;
         margin: 0;
     }
+
+    nav ul li ul {
+        display: none;
+        position: absolute;
+        background-color: white;
+        border: 10px solid #9dbbb4;
+        padding: 14px ;
+       
+    }
+    nav ul li:hover ul {
+        display: block;
+    }
+    nav ul li ul li { 
+        width: 100px;
+    }
+    
+    nav ul li ul li a { 
+        padding: 8px 10px;
+    }
+    nav ul li ul li a:hover {
+        background-color:#a59dbb
+    }
+    nav ul li a:hover {color: bisque;}
 
 }
