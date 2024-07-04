@@ -9,6 +9,7 @@ h5 {
         grid-template-columns:1fr 1fr 1fr 1fr 1fr 1fr;
         grid-gap: 10px;
         background-color:#2C506B;
+        max-width: fit-content;
 
       }
       
@@ -16,6 +17,7 @@ h5 {
         padding: 10px;
         font-size: 12pt;
         margin-top: 15px;
+        width: 100%;
         }
 
         .a { grid-column: 1/6;
