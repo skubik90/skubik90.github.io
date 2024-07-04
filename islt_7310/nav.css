@@ -80,8 +80,8 @@ nav {
     #menu-icon {
         background: url(menu-icon.jpg);
         display: inline-block;
-        width: 120px;
-        height: 100px;
+        width: 65px;
+        height: 55px;
     }
 
     nav ul, nav:active ul {
@@ -129,8 +129,8 @@ nav {
         display: none;
         background-color: white;
         border: 10px solid #9dbbb4;
-        padding: 14px ;
-        width: 35%;
+        padding: 30px ;
+        width: 40%;
     }
 
     nav ul li:hover ul {
