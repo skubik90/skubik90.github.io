@@ -10,6 +10,7 @@ h5 {
         grid-gap: 10px;
         background-color:#2C506B;
         max-width: fit-content;
+        background: fixed;
 
       }
       
