@@ -53,20 +53,31 @@ nav ul li a:hover {color: bisque;}
 
 
 
-
-
-
 @media (max-width: 640px) {
+
+
    
     header {
-        position: absolute;
+        width:100%;
+        height: 76px;
+        position: fixed;
+        top:0;
+        left:0;
+        z-index: 100;
         background-color: #a59dbb;
-        background-size: 125px;
         border: 10px solid #9dbbb4;
-        width: 100%;
-        font-size: 12pt;
+        
     }
-
+ul{list-style: none;
+}
+li {display: inline-block;
+    float:left;
+    padding: 10px;
+}
+nav {
+    float: right;
+    padding: 20px;
+}
     #menu-icon {
         background: url(menu-icon.png);
         display: inline-block;
