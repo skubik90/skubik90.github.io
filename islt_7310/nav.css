@@ -83,9 +83,6 @@ nav {
         width: 32px;
         height: 32px;
     }
-    #menu-icon {
-        display: inline-block;
-    }
 
     nav ul, nav:active ul {
         display: none;
@@ -133,6 +130,7 @@ nav {
         background-color: white;
         border: 10px solid #9dbbb4;
         padding: 14px ;
+        width: 25%;
     }
 
     nav ul li:hover ul {
