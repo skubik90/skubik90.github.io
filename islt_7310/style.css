@@ -78,7 +78,7 @@ h5 {
 
 
           .aa {
-            grid-column: 1/2;
+            grid-column: 2/3;
             Grid-row: 3;
             background-color:whitesmoke;
             border: 10px solid #9dbbb4;
@@ -94,7 +94,7 @@ h5 {
           }
 
           .cc {
-            grid-column: 5/6;
+            grid-column: 4/5;
             Grid-row: 3;
             background-color:whitesmoke;
             border: 10px solid #9dbbb4;
@@ -102,7 +102,7 @@ h5 {
           }
 
           .dd {
-            grid-column: 1/2;
+            grid-column: 2/3;
             Grid-row: 4;
             background-color:whitesmoke;
             border: 10px solid #9dbbb4;
@@ -119,11 +119,11 @@ h5 {
 
           
           .ff {
-            grid-column: 5/6;
+            grid-column: 4/5;
             Grid-row: 4;
             background-color:whitesmoke;
             border: 10px solid #9dbbb4;
-            text-align: center;
+            
           }
   
           .r {
