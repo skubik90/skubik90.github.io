@@ -81,7 +81,7 @@ nav {
         background: url(menu-icon.jpg);
         display: inline-block;
         width: 65px;
-        height: 55px;
+        height: 60px;
     }
 
     nav ul, nav:active ul {
@@ -91,7 +91,7 @@ nav {
         border: 10px solid #9dbbb4;
         right: 10px;
         top: 65px;
-        width: 35%;
+        width: 25%;
         padding: 14px ;
     
     }
