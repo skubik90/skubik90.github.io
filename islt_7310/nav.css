@@ -78,7 +78,7 @@ nav {
     padding: 20px;
 }
     #menu-icon {
-        background: url(menu-icon.png);
+        background: url(menu-icon.jpg);
         display: inline-block;
         width: 32px;
         height: 32px;
@@ -130,7 +130,7 @@ nav {
         background-color: white;
         border: 10px solid #9dbbb4;
         padding: 14px ;
-        width: 25%;
+        width: 35%;
     }
 
     nav ul li:hover ul {
