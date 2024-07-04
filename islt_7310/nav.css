@@ -126,10 +126,13 @@ nav {
     }
 
     nav ul li ul {
-        display: none;
         background-color: white;
         border: 10px solid #9dbbb4;
-        padding: 30px ;
-        width: 40%;
+        display: none;
+        position: absolute;
+        right: 15px;
+        top: 55px;
+        width: 35%;
+        padding: 15px;
     }
 }
