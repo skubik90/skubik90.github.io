@@ -47,7 +47,7 @@ color:#9dbbb4}
 
       .aa {
         grid-column: 2/3;
-        Grid-row: 2;
+        Grid-row: 3;
         background-color:whitesmoke;
         border: 10px solid #9dbbb4;
         
@@ -55,7 +55,7 @@ color:#9dbbb4}
 
       .bb {
         grid-column: 2/3;
-        Grid-row: 3;
+        Grid-row: 4;
         background-color:whitesmoke;
         border: 10px solid #9dbbb4;
         
@@ -63,7 +63,7 @@ color:#9dbbb4}
 
       .cc {
         grid-column: 2/3;
-        Grid-row: 4;
+        Grid-row: 5;
         background-color:whitesmoke;
         border: 10px solid #9dbbb4;
        
@@ -71,7 +71,7 @@ color:#9dbbb4}
 
       .dd {
         grid-column: 2/3;
-        Grid-row: 5;
+        Grid-row: 6;
         background-color:whitesmoke;
         border: 10px solid #9dbbb4;
         
@@ -79,7 +79,7 @@ color:#9dbbb4}
 
       .ee {
         grid-column: 2/3;
-        Grid-row: 6;
+        Grid-row: 7;
         background-color:whitesmoke;
         border: 10px solid #9dbbb4;
         
@@ -88,7 +88,7 @@ color:#9dbbb4}
       
       .ff {
         grid-column: 2/3;
-        Grid-row: 7;
+        Grid-row: 8;
         background-color:whitesmoke;
         border: 10px solid #9dbbb4;
         
