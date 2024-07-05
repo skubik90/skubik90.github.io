@@ -130,9 +130,8 @@ nav {
         border: 10px solid #9dbbb4;
         display: none;
         position: absolute;
-        right: 15px;
-        top: 55px;
-        width: 110px;
-        padding: 15px;
+        top: 35px;
+        width: 120px;
+        right:0 ;
     }
 }
