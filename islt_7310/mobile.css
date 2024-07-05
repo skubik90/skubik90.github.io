@@ -1,0 +1,108 @@
+#title { color:#2C506B;
+    font-size: 20pt;}
+h5 {
+font-size: 16pt;
+color:#9dbbb4}
+
+
+@media (max-width: 640px) {
+  .wrapper {
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+    grid-gap: 10px;
+    background-color:#2C506B;
+    width: auto;
+  }
+  
+  .box {
+    padding: 10px;
+    font-size: 12pt;
+    margin-top: 15px;
+    }
+
+    .a { grid-column: 1/4;
+        grid-row: 1;
+
+      }
+      .e {
+        grid-column: 1/4;
+        grid-row: 9;
+        background-color:whitesmoke;
+        border: 10px solid #9dbbb4;
+
+      }
+
+      .f {
+        grid-column: 1/4;
+        grid-row: 2;
+        display: flex;
+        justify-content: center;
+        background-color:whitesmoke;
+        border: 10px solid #9dbbb4;
+      }
+
+  
+
+
+
+      .aa {
+        grid-column: 2/3;
+        Grid-row: 2;
+        background-color:whitesmoke;
+        border: 10px solid #9dbbb4;
+        
+      }
+
+      .bb {
+        grid-column: 2/3;
+        Grid-row: 3;
+        background-color:whitesmoke;
+        border: 10px solid #9dbbb4;
+        
+      }
+
+      .cc {
+        grid-column: 2/3;
+        Grid-row: 4;
+        background-color:whitesmoke;
+        border: 10px solid #9dbbb4;
+       
+      }
+
+      .dd {
+        grid-column: 2/3;
+        Grid-row: 5;
+        background-color:whitesmoke;
+        border: 10px solid #9dbbb4;
+        
+      }
+
+      .ee {
+        grid-column: 2/3;
+        Grid-row: 6;
+        background-color:whitesmoke;
+        border: 10px solid #9dbbb4;
+        
+      }
+
+      
+      .ff {
+        grid-column: 2/3;
+        Grid-row: 7;
+        background-color:whitesmoke;
+        border: 10px solid #9dbbb4;
+        
+      }
+
+    
+
+a {
+text-decoration: none;
+color:#2C506B;
+
+}
+
+a:hover {color: bisque;}
+
+
+}
