@@ -176,14 +176,19 @@ a:hover {color: bisque;}
   body::before,
   img {
     display: none;
+    background:transparent;
+    .main-nav {
+      display: none;
+    }
+  
   }
 
 
   /* GLOBAL RESET */
   body {
-    font-family: Georgia, serif;
-    font-size: 12pt;
-    line-height: 24pt;
+    font-family: 'Times New Roman', Times, serif,;
+    font-size: 10pt;
+    line-height: 14pt;
     background: none;
     color: #000;
   }
