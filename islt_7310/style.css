@@ -179,7 +179,9 @@ a:hover {color: bisque;}
     background:transparent;
   
   }
+  body::before,
   border { display: none;}
+
   .box a {
     display: none;
     border: none;
@@ -202,7 +204,7 @@ a:hover {color: bisque;}
   body {
     font-family: 'Times New Roman', Times, serif,;
     font-size: 10pt;
-    line-height: 10pt;
+    line-height: 12pt;
     background: none;
     color: #000;
   }
