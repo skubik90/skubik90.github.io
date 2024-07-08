@@ -182,15 +182,18 @@ a:hover {color: bisque;}
   .box a {
     display: none;
     border: none;
+    border-style: none;
   }
 
   .box d {
     display: none;
     border: none;
+    border-style: none;
   }
 
   #title {
     border:none;
+    border-style: none;
   }
  
 
@@ -198,7 +201,7 @@ a:hover {color: bisque;}
   body {
     font-family: 'Times New Roman', Times, serif,;
     font-size: 10pt;
-    line-height: 14pt;
+    line-height: 10pt;
     background: none;
     color: #000;
   }
