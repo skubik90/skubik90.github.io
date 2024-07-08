@@ -182,6 +182,10 @@ a:hover {color: bisque;}
   main::before,
   border { display: none;}
 
+  .box {
+    border: none;
+  }
+
   .box a {
     display: none;
     border: none;
