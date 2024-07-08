@@ -211,6 +211,7 @@ a:hover {color: bisque;}
     line-height: 12pt;
     background: none;
     color: #000;
+    border: none;
   }
 
   .wrapper {
