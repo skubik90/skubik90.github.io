@@ -1,5 +1,15 @@
+@font-face {
+  font-family:Sunflower-Medium;
+  src: url("Sunflower/Sunflower-Medium.ttf");
+
+  font-family: Sunflower-Bold;
+  src: url(Sunflower/Sunflower-Bold.ttf);
+}
+
+
 #title { color:#2C506B;
-        font-size: 20pt;}
+        font-size: 20pt;
+      }
 h5 {
     font-size: 16pt;
     color:#9dbbb4}
