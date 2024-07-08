@@ -177,7 +177,10 @@ a:hover {color: bisque;}
   img {
     display: none;
     background:transparent;
-    .main-nav {
+    .box a {
+      display: none;
+    }
+    .box d{
       display: none;
     }
   
