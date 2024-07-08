@@ -91,7 +91,7 @@ nav {
         border: 10px solid #9dbbb4;
         right: 15px;
         top: 55px;
-        width: 30%;
+        width: 20%;
         padding: 15px;
     
     }
@@ -131,6 +131,6 @@ nav {
         display: none;
         top: 80px;
         width: 120px;
-        right: 40px;
+        right: -10px;
     }
 }
