@@ -177,15 +177,20 @@ a:hover {color: bisque;}
   img {
     display: none;
     background:transparent;
-    .box a {
-      display: none;
-    }
-    .box d{
-      display: none;
-    }
   
   }
+  .box a {
+    display: none;
+  }
 
+  .box d {
+    display: none;
+  }
+
+  #title {
+    display: none;
+  }
+ 
 
   /* GLOBAL RESET */
   body {
