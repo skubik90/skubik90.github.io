@@ -179,6 +179,7 @@ a:hover {color: bisque;}
     background:transparent;
   
   }
+  border { display: none;}
   .box a {
     display: none;
     border: none;
