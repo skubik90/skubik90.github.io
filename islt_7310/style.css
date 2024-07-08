@@ -213,5 +213,9 @@ a:hover {color: bisque;}
     color: #000;
   }
 
+  .wrapper {
+    border: none;
+    background-color: white;
+  display: none};
 
 }
