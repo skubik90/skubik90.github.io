@@ -82,6 +82,9 @@ h5 {
             Grid-row: 3;
             background-color:whitesmoke;
             border: 10px solid #9dbbb4;
+            padding-top: 10px;
+            text-align: center;
+        
             
           }
 
@@ -90,6 +93,8 @@ h5 {
             Grid-row: 3;
             background-color:whitesmoke;
             border: 10px solid #9dbbb4;
+            padding-top: 10px;
+            text-align: center;
             
           }
 
@@ -98,6 +103,8 @@ h5 {
             Grid-row: 3;
             background-color:whitesmoke;
             border: 10px solid #9dbbb4;
+            padding-top: 10px;
+            text-align: center;
            
           }
 
@@ -106,6 +113,8 @@ h5 {
             Grid-row: 4;
             background-color:whitesmoke;
             border: 10px solid #9dbbb4;
+            padding-top: 10px;
+            text-align: center;
             
           }
 
@@ -114,6 +123,8 @@ h5 {
             Grid-row: 4;
             background-color:whitesmoke;
             border: 10px solid #9dbbb4;
+            padding-top: 10px;
+            text-align: center;
             
           }
 
@@ -123,6 +134,8 @@ h5 {
             Grid-row: 4;
             background-color:whitesmoke;
             border: 10px solid #9dbbb4;
+            padding-top: 10px;
+            text-align: center;
             
           }
   
@@ -131,6 +144,7 @@ h5 {
             grid-row: 2/4;
             background-color:whitesmoke;
             border: 10px solid #9dbbb4;
+        
           }
 
 a {
