@@ -165,3 +165,28 @@ a {
 }
 
 a:hover {color: bisque;}
+
+
+
+
+@media print {
+
+
+  /* HIDE UNWANTED ELEMENTS */
+  body::before,
+  img {
+    display: none;
+  }
+
+
+  /* GLOBAL RESET */
+  body {
+    font-family: Georgia, serif;
+    font-size: 12pt;
+    line-height: 24pt;
+    background: none;
+    color: #000;
+  }
+
+
+}
