@@ -173,13 +173,13 @@ a:hover {color: bisque;}
 
 
   /* HIDE UNWANTED ELEMENTS */
-  body::before,
+  main::before,
   img {
     display: none;
     background:transparent;
   
   }
-  body::before,
+  main::before,
   border { display: none;}
 
   .box a {
