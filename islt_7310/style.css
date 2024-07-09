@@ -59,7 +59,7 @@ h5 {
 
           .e {
             grid-column: 1/6;
-            grid-row: 5/12;
+            grid-row: 5/16;
             background-color:white;
             border: 10px solid #9dbbb4;
             background-image: url(animalbackground.jpg);
