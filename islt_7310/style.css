@@ -60,14 +60,14 @@ h5 {
           .e {
             grid-column: 1/6;
             grid-row: 5/12;
-            background-color:whitesmoke;
+            background-color:white;
             border: 10px solid #9dbbb4;
             background-image: url(animalbackground.jpg);
             background-repeat: no-repeat;
-            background-size: auto;
+            background-size: cover;
             color:black;
-            margin:40px auto;
-            text-shadow:1px 1px 0;
+            margin: 120px auto;
+        
 
 
 
