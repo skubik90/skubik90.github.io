@@ -59,12 +59,14 @@ h5 {
 
           .e {
             grid-column: 1/6;
-            grid-row: 5;
+            grid-row: 5/8;
             background-color:whitesmoke;
             border: 10px solid #9dbbb4;
             background-image: url(animalbackground.jpg);
             background-repeat: no-repeat;
-            background-size: contain;
+            background-size: 100%;
+            color:darkorchid;
+            font-weight: bolder;
 
 
 
