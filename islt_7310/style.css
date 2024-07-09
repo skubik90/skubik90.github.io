@@ -61,14 +61,14 @@ h5 {
 
           footer {
             width: 100%;
-            Height: 350px;
+            Height: 300px;
             background-color:white;
             border: 10px solid #9dbbb4;
             background-image: url(Junglebackground.jpg);
             background-repeat: no-repeat;
             background-size:cover;
-            color:#9dbbb4;
-            line-height: 1.5;
+            color:greenyellow;
+            line-height: 2.0;
 
         
 
