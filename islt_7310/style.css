@@ -216,10 +216,13 @@ a:hover {color: bisque;}
 
   .wrapper {
     border: none;
-    display: inline-block;
-    margin: 1in;
+    display: block;
+    margin-left: 1 in;
+    margin-right: 1 in;
     background-color: white;
-    background: none;
+    background: transparent;
+    margin-top: 0%;
+    padding-top: 0;
   }
 
 }
