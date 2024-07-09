@@ -218,6 +218,8 @@ a:hover {color: bisque;}
     border: none;
     display: inline-block;
     margin: 1in;
+    background-color: white;
+    background: none;
   }
 
 }
