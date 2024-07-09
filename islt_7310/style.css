@@ -179,7 +179,7 @@ a:hover {color: bisque;}
     background:transparent;
   
   }
-  main::before,
+  
   border { display: none;}
 
   .box {
@@ -216,6 +216,8 @@ a:hover {color: bisque;}
 
   .wrapper {
     border: none;
+    display: inline-block;
+    margin: 1in;
   }
 
 }
