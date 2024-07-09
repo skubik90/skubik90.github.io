@@ -64,9 +64,9 @@ h5 {
             border: 10px solid #9dbbb4;
             background-image: url(animalbackground.jpg);
             background-repeat: no-repeat;
-            background-size:contain;
-            color:black;
-            margin: 120px auto;
+            background-size:cover;
+            color:#2C506B;
+            margin: 120px 60px;
         
 
 
