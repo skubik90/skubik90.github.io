@@ -69,7 +69,7 @@ h5 {
             background-size:cover;
             color:black;
             line-height: 1.25;
-            padding-left: 300px;
+            padding-left: 325px;
             margin-top: 10px;
             
             
@@ -79,13 +79,13 @@ h5 {
           @media (max-width: 640px) {
 
             footer  { width:auto;
-            Height: 300px;
+            Height: 350px;
             background-color:white;
             border: 10px solid burlywood;
             color:black;
             margin-top: 10px;
             background-image: none;
-            padding-left: 100px;
+            padding-left: 10px;
             }
           }
 
