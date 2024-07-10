@@ -70,11 +70,21 @@ h5 {
             color:black;
             line-height: 1.25;
             padding-left: 325px;
-            
-            
-            
-
+  
           }
+
+    .zoompic {
+      width: 20px;
+      height: 20px;
+    }
+
+    .zoompicbig {
+      position: absolute;
+      width: 0px;
+      -webkit-transition:width 0.3s linear 0s;
+      transition:width 0.3s linear 0s; z-index: 10;
+  }
+
           @media (max-width: 640px) {
 
             footer  { width:auto;
