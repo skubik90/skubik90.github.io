@@ -68,9 +68,10 @@ h5 {
             background-repeat: no-repeat;
             background-size:cover;
             color:black;
-            line-height: 1.5;
-            padding-left: 180px;
+            line-height: 1.25;
+            padding-left: 250px;
             margin-top: 10px;
+            
             
             
 
@@ -82,7 +83,6 @@ h5 {
             background-color:white;
             border: 10px solid burlywood;
             color:black;
-            padding-left: 120px;
             margin-top: 10px;
             }
           }
