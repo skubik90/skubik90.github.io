@@ -371,8 +371,8 @@ h5 {
             .w2 {
               grid-column: 2;
               Grid-row: 4;
-              height: 700px;
-              width: 1000px;
+              height: 550px;
+              width: 500px;
               background-color:whitesmoke;
               background-image: url(platyhelminthes.jpg);
               background-repeat: no-repeat;
