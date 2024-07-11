@@ -128,6 +128,8 @@ h5 {
             Grid-row: 3;
             background-color:whitesmoke;
             background-image: url(sponge.jpg);
+            background-repeat: no-repeat;
+            color: plum;
             border: 10px solid #9dbbb4;
             padding-top: 10px;
             text-align: center;
