@@ -127,7 +127,7 @@ h5 {
             grid-column: 2/3;
             Grid-row: 3;
             height: 350px;
-            width: 400px;
+            width: 450px;
             background-color:whitesmoke;
             background-image: url(sponge.jpg);
             background-repeat: no-repeat;
@@ -147,7 +147,7 @@ h5 {
             grid-column: 3/4;
             Grid-row: 3;
             height: 350px;
-            width: 400px;
+            width: 450px;
             background-color:whitesmoke;
             background-image: url(jellyfish.jpg);
             background-repeat: no-repeat;
@@ -165,7 +165,7 @@ h5 {
             grid-column: 4/5;
             Grid-row: 3;
             height: 350px;
-            width: 400px;
+            width: 450px;
             background-color:whitesmoke;
             background-image: url(worm.jpg);
             background-repeat: no-repeat;
@@ -183,7 +183,7 @@ h5 {
             grid-column: 2/3;
             Grid-row: 4;
             height: 350px;
-            width: 400px;
+            width: 450px;
             background-color:whitesmoke;
             background-image: url(amphibian.jpg);
             background-repeat: no-repeat;
@@ -201,7 +201,7 @@ h5 {
             grid-column: 3/4;
             Grid-row: 4;
             height: 350px;
-            width: 400px;
+            width: 450px;
             background-color:whitesmoke;
             background-image: url(bird.jpg);
             background-repeat: no-repeat;
@@ -220,7 +220,7 @@ h5 {
             grid-column: 4/5;
             Grid-row: 4;
             height: 350px;
-            width: 400px;
+            width: 450px;
             background-color:whitesmoke;
             background-image: url(fish.jpg);
             background-repeat: no-repeat;
@@ -241,6 +241,24 @@ h5 {
             border: 10px solid #9dbbb4;
         
           }
+
+          .sp1 {
+            grid-column: 1/6;
+            Grid-row:3;
+            width: 800px;
+            height: 500px;
+            background-color:whitesmoke;
+            border: 10px solid #9dbbb4;
+          }
+
+            .sp1 h2 {
+              font-size: larger;
+              text-decoration:underline;
+              color: #2C506B;
+            }
+
+
+          
 
 a {
   text-decoration: none;
