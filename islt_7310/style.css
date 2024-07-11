@@ -320,29 +320,13 @@ h5 {
               color: #2C506B;
             }
 
-            .cn2 {
-              grid-column: 2;
-              Grid-row: 4;
-              height: 700px;
-              width: 800px;
-              background-color:whitesmoke;
-              background-image: url(polypmedusa.jpg);
-              background-repeat: no-repeat;
-              background-size: cover;
-              color:black;
-              font-size: 16pt;
-              font-weight: 200;
-              border: 10px solid #9dbbb4;
-              padding-top: 10px;
-              text-align: center;
-              
-            }
+           
 
             .cn3 {
-              grid-column: 3/4;
+              grid-column: 3/5;
               Grid-row: 4;
               height: 700px;
-              width: 450px;
+              width: 650px;
               background-color:whitesmoke;
               background-image: url(hydra.jpg);
               background-repeat: no-repeat;
