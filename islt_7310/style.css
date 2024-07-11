@@ -258,15 +258,15 @@ h5 {
             }
 
             .sp2 {
-              grid-column: 2/3;
+              grid-column: 2;
               Grid-row: 4;
               height: 350px;
-              width: 450px;
+              width: 700px;
               background-color:whitesmoke;
               background-image: url(spongestructure.jpg);
               background-repeat: no-repeat;
               background-size: cover;
-              color:bisque;
+              color:black;
               font-size: 16pt;
               font-weight: 200;
               border: 10px solid #9dbbb4;
@@ -294,7 +294,20 @@ h5 {
               text-align: center;
               
             }
-  
+            sp4 {
+              grid-column: 2/4;
+              Grid-row: 5;
+              height: 350px;
+              width: 450px;
+              background-color:whitesmoke;
+              color:#2C506B;
+              font-size: 16pt;
+              font-weight: 200;
+              border: 10px solid #9dbbb4;
+              padding-top: 10px;
+              text-align: center;
+            }
+          
 
 
           
