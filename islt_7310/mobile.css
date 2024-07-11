@@ -52,11 +52,12 @@ color:#9dbbb4}
         Grid-row: 3;
         background-color:whitesmoke;
         background-size: auto;
+        background-image:url(spongetiny.jpg);
         border: 10px solid #9dbbb4;
         text-align: center;
         padding-top: 15px;
-        height: 250px;
-        width: 250px;
+        height: 300px;
+        width: 200px;
         
       }
 
@@ -65,11 +66,12 @@ color:#9dbbb4}
         Grid-row: 4;
         background-color:whitesmoke;
         background-size: auto;
+        background-image:url(jellyfishtiny.jpg);
         border: 10px solid #9dbbb4;
         text-align: center;
         padding-top: 15px;
-        height: 250px;
-        width: 250px;
+        height: 300px;
+        width: 200px;
         
       }
 
@@ -78,11 +80,12 @@ color:#9dbbb4}
         Grid-row: 5;
         background-color:whitesmoke;
         background-size: auto;
+        background-image:url(wormtiny.jpg);
         border: 10px solid #9dbbb4;
         text-align: center;
         padding-top: 15px;
-        height: 250px;
-        width: 250px;
+        height: 300px;
+        width: 200px;
        
       }
 
@@ -91,11 +94,12 @@ color:#9dbbb4}
         Grid-row: 6;
         background-color:whitesmoke;
         background-size: auto;
+        background-image:url(amphibiantiny.jpg);
         border: 10px solid #9dbbb4;
         text-align: center;
         padding-top: 15px;
-        height: 250px;
-        width: 250px;
+        height: 300px;
+        width: 200px;
         
       }
 
@@ -104,11 +108,12 @@ color:#9dbbb4}
         Grid-row: 7;
         background-color:whitesmoke;
         background-size: auto;
+        background-image:url(birdtiny.jpg);
         border: 10px solid #9dbbb4;
         text-align: center;
         padding-top: 15px;
-        height: 250px;
-        width: 250px;
+        height: 300px;
+        width: 200px;;
         
       }
 
@@ -118,11 +123,12 @@ color:#9dbbb4}
         Grid-row: 8;
         background-color:whitesmoke;
         background-size: auto;
+        background-image:url(fishtiny.jpg);
         border: 10px solid #9dbbb4;
         text-align: center;
         padding-top: 15px;
-        height: 250px;
-        width: 250px;
+        height: 300px;
+        width: 200px;
         
       }
 
