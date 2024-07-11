@@ -147,8 +147,14 @@ h5 {
             grid-column: 3/4;
             Grid-row: 3;
             height: 350px;
-            width: 350px; ;
+            width: 350px;
             background-color:whitesmoke;
+            background-image: url(jellyfish.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            color:bisque;
+            font-size: 16pt;
+            font-weight: 200;
             border: 10px solid #9dbbb4;
             padding-top: 10px;
             text-align: center;
@@ -161,6 +167,12 @@ h5 {
             height: 350px;
             width: 350px;
             background-color:whitesmoke;
+            background-image: url(worm.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            color:bisque;
+            font-size: 16pt;
+            font-weight: 200;
             border: 10px solid #9dbbb4;
             padding-top: 10px;
             text-align: center;
@@ -173,10 +185,15 @@ h5 {
             height: 350px;
             width: 350px;
             background-color:whitesmoke;
+            background-image: url(amphibian.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            color:bisque;
+            font-size: 16pt;
+            font-weight: 200;
             border: 10px solid #9dbbb4;
             padding-top: 10px;
             text-align: center;
-            padding-bottom: 10px;
             
           }
 
@@ -186,10 +203,15 @@ h5 {
             height: 350px;
             width: 350px;
             background-color:whitesmoke;
+            background-image: url(bird.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            color:bisque;
+            font-size: 16pt;
+            font-weight: 200;
             border: 10px solid #9dbbb4;
             padding-top: 10px;
             text-align: center;
-            padding-bottom: 10px;
             
           }
 
@@ -200,10 +222,15 @@ h5 {
             height: 350px;
             width: 350px;
             background-color:whitesmoke;
+            background-image: url(fish.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            color:bisque;
+            font-size: 16pt;
+            font-weight: 200;
             border: 10px solid #9dbbb4;
             padding-top: 10px;
             text-align: center;
-            padding-bottom: 10px;
             
           }
   
