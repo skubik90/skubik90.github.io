@@ -51,13 +51,13 @@ color:#9dbbb4}
         grid-column: 2/3;
         Grid-row: 3;
         background-color:whitesmoke;
-        background-size: auto;
+        background-size: cover;
         background-repeat: no-repeat;
         background-image:url(spongetiny.jpg);
         border: 10px solid #9dbbb4;
         text-align: center;
         padding-top: 15px;
-        height: 300px;
+        height: 200px;
         width: 200px;
         
       }
@@ -66,13 +66,13 @@ color:#9dbbb4}
         grid-column: 2/3;
         Grid-row: 4;
         background-color:whitesmoke;
-        background-size: auto;
+        background-size: cover;
         background-repeat: no-repeat;
         background-image:url(jellyfishtiny.jpg);
         border: 10px solid #9dbbb4;
         text-align: center;
         padding-top: 15px;
-        height: 300px;
+        height: 200px;
         width: 200px;
         
       }
@@ -81,13 +81,13 @@ color:#9dbbb4}
         grid-column: 2/3;
         Grid-row: 5;
         background-color:whitesmoke;
-        background-size: auto;
+        background-size: cover;
         background-repeat: no-repeat;
         background-image:url(wormtiny.jpg);
         border: 10px solid #9dbbb4;
         text-align: center;
         padding-top: 15px;
-        height: 300px;
+        height: 200px;
         width: 200px;
        
       }
@@ -96,13 +96,13 @@ color:#9dbbb4}
         grid-column: 2/3;
         Grid-row: 6;
         background-color:whitesmoke;
-        background-size: auto;
+        background-size: cover;
         background-repeat:no-repeat;
         background-image:url(amphibiantiny.jpg);
         border: 10px solid #9dbbb4;
         text-align: center;
         padding-top: 15px;
-        height: 300px;
+        height: 200px;
         width: 200px;
         
       }
@@ -111,13 +111,13 @@ color:#9dbbb4}
         grid-column: 2/3;
         Grid-row: 7;
         background-color:whitesmoke;
-        background-size: auto;
+        background-size: cover;
         background-repeat: no-repeat;
         background-image:url(birdtiny.jpg);
         border: 10px solid #9dbbb4;
         text-align: center;
         padding-top: 15px;
-        height: 300px;
+        height: 200px;
         width: 200px;
         
       }
@@ -127,13 +127,13 @@ color:#9dbbb4}
         grid-column: 2/3;
         Grid-row: 8;
         background-color:whitesmoke;
-        background-size: auto;
+        background-size: cover;
         background-repeat: no-repeat;
         background-image:url(fishtiny.jpg);
         border: 10px solid #9dbbb4;
         text-align: center;
         padding-top: 15px;
-        height: 300px;
+        height: 200px;
         width: 200px;
         
       }
