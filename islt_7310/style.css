@@ -132,7 +132,9 @@ h5 {
             background-image: url(sponge.jpg);
             background-repeat: no-repeat;
             background-size: cover;
-            color:black;
+            color:bisque;
+            font-size: 16pt;
+            font-weight: 200;
             border: 10px solid #9dbbb4;
             padding-top: 10px;
             text-align: center;
