@@ -323,7 +323,7 @@ h5 {
             .cn2 {
               grid-column: 2;
               Grid-row: 4;
-              height: 350px;
+              height: 700px;
               width: 800px;
               background-color:whitesmoke;
               background-image: url(polypmedusa.jpg);
@@ -341,7 +341,7 @@ h5 {
             .cn3 {
               grid-column: 3/4;
               Grid-row: 4;
-              height: 350px;
+              height: 700px;
               width: 450px;
               background-color:whitesmoke;
               background-image: url(hydra.jpg);
