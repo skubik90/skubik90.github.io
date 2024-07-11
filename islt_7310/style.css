@@ -138,6 +138,7 @@ h5 {
             border: 10px solid #9dbbb4;
             padding-top: 10px;
             text-align: center;
+            
         
             
           }
@@ -216,11 +217,12 @@ h5 {
 
 a {
   text-decoration: none;
-  color:#2C506B;
+  color: bisque;
+
 
 }
 
-a:hover {color: bisque;}
+a:hover {color: slategray;}
 
 
 
