@@ -370,7 +370,8 @@ h5 {
             .w1 table {
               border-collapse: collapse;
               width: 650px;
-              Height:800px;
+              Height:1200px;
+              font-size: larger;
 
             }
 
