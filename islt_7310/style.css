@@ -520,3 +520,25 @@ a:hover {color: slategray;}
   }
 
 }
+
+
+form{
+  background-color: lavender;
+  border: 20pt solid cornflowerblue;
+  color:darkslategrey;
+  width: 600px;
+  Height:600px;
+  text-align: center;
+
+}
+
+form h3{ 
+  font-size: 24pt;
+  font-weight: bold;
+  font-style: italic;
+}
+
+form p{
+  font-size: 12pt;
+}
+
