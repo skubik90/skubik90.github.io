@@ -526,7 +526,7 @@ form{
   background-color: lavender;
   border: 20pt solid cornflowerblue;
   color:darkslategrey;
-  width: 600px;
+  width: 100%;
   Height:400px;
   text-align: center;
   padding-left: 200px;
@@ -553,26 +553,4 @@ form label{
 
 form .message{
   height: 400px;
-}
-
-@media (max-width: 640px) {
-  form{
-    display: block;
-    justify-content:left;
-    background-color: lavender;
-    border: 20pt solid cornflowerblue;
-    color:darkslategrey;
-    width: 200px;
-    Height:600px;
-    text-align: left;
-    padding-left: none;
-    padding-right: none;
-    padding-top: 60px;
-  
-  }
-
-
-
-
-
 }
