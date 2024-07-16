@@ -6,7 +6,7 @@
   src: url(Sunflower/Sunflower-Bold.ttf);
 }
 
-
+main { background-color: #2C506B;}
 #title { color:#2C506B;
         font-size: 20pt;
       font-family: 'Sunflower-Bold';
