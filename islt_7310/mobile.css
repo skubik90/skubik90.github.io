@@ -224,20 +224,21 @@ color:#9dbbb4}
           grid-column: 1/3;
           Grid-row:3;
           width: 80%;
-          height: 4000px;
+          height: 2000px;
           background-color:whitesmoke;
           border: 10px solid #9dbbb4;
         }
         .w1 table {
           border-collapse: collapse;
-          width: 300px;
+          width: 350px;
           Height: 1000px;
           font-size: x-small;
+          
 
         }
 
         .w1 table th{ 
-          text-align:left;
+          text-align:center;
           color: ghostwhite;
           padding-top: 10px;
           padding-left: 0px;
