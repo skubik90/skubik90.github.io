@@ -527,7 +527,7 @@ form{
   border: 20pt solid cornflowerblue;
   color:darkslategrey;
   width: 600px;
-  Height:600px;
+  Height:400px;
   text-align: center;
   padding-left: 200px;
   padding-right: 200px;
@@ -557,10 +557,12 @@ form .message{
 
 @media (max-width: 640px) {
   form{
+    display: block;
+    justify-self: left;
     background-color: lavender;
     border: 20pt solid cornflowerblue;
     color:darkslategrey;
-    width: 250px;
+    width: 200px;
     Height:600px;
     text-align: left;
     padding-left: none;
