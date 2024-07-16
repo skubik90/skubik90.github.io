@@ -320,11 +320,11 @@ form{
   color:darkslategrey;
   display:flexbox;
   justify-content:left;
-  width: 400px;
-  Height:500px;
+  width: 350px;
+  Height:350px;
   text-align: left;
   padding-left: none;
-  padding-top: 10px;
+  padding-top: none;
 
 }
 
