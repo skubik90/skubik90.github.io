@@ -370,8 +370,7 @@ h5 {
             .w1 table {
               border-collapse: collapse;
               width: 1000px;
-              Height: 800px;
-              font-size: larger;
+              Height: 600px;
 
             }
 
@@ -382,6 +381,7 @@ h5 {
               padding-top: 10px;
               padding-left: 5px;
               padding-right: 5px;
+              font-size: larger;
             }
             .w1 table td{
               border: 1px solid black; 
