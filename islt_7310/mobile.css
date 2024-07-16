@@ -316,7 +316,7 @@ a:hover {color: salmon;}
 
 form{
   display: block;
-  justify-self: left;
+  justify-content: left;
   background-color: lavender;
   border: 20pt solid cornflowerblue;
   color:darkslategrey;
