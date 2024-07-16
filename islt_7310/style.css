@@ -526,11 +526,9 @@ form{
   background-color: lavender;
   border: 20pt solid cornflowerblue;
   color:darkslategrey;
-  display:flexbox;
-  justify-content:center ;
   width: 400px;
   Height:400px;
-  text-align: center;
+  text-align: left;
   padding-left: 200px;
   padding-right: 200px;
   padding-top: 60px;
