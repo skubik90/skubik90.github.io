@@ -318,8 +318,10 @@ form{
   background-color: lavender;
   border: 20pt solid cornflowerblue;
   color:darkslategrey;
-  width: 150px;
-  Height:400px;
+  display:flexbox;
+  justify-content:left;
+  width: 400px;
+  Height:500px;
   text-align: left;
   padding-left: none;
   padding-right: none;
