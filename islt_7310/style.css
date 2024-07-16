@@ -385,6 +385,7 @@ h5 {
             .w1 table td{
               border: 1px solid black; 
               padding: 4px 8px;
+              text-align: center;
             }
 
             .w1 table tr:nth-child(odd) td {
