@@ -547,6 +547,9 @@ form p{
 
 form label{
   font-weight: bold;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  border:solid 10pt silver;
 }
 
 form .message{
