@@ -327,6 +327,18 @@ form{
 
 }
 
+form h3{ 
+  font-size: 24pt;
+  font-weight: bold;
+  font-style: italic;
+  text-align: left;
+}
+
+form p{
+  font-size: 12pt;
+  text-align: left;
+}
+
 
 
 
