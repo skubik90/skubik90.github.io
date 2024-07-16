@@ -527,7 +527,7 @@ form{
   border: 20pt solid cornflowerblue;
   color:darkslategrey;
   display:flexbox;
-  justify-content:left ;
+  justify-content:center ;
   width: 400px;
   Height:400px;
   text-align: center;
