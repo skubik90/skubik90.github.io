@@ -3,7 +3,9 @@
 h5 {
 font-size: 16pt;
 color:#9dbbb4}
-
+main{
+  background-color: #2C506B;
+}
 
 @media (max-width: 640px) {
   .wrapper {
@@ -312,7 +314,20 @@ color:bisque;
 
 a:hover {color: salmon;}
 
+form{
+  display: block;
+  justify-self: left;
+  background-color: lavender;
+  border: 20pt solid cornflowerblue;
+  color:darkslategrey;
+  width: 200px;
+  Height:600px;
+  text-align: left;
+  padding-left: none;
+  padding-right: none;
+  padding-top: 60px;
 
+}
 
 
 
