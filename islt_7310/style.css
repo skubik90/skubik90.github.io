@@ -527,8 +527,11 @@ form{
   border: 20pt solid cornflowerblue;
   color:darkslategrey;
   width: 600px;
-  Height:600px;
+  Height:800px;
   text-align: center;
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 60px;
 
 }
 
@@ -542,3 +545,10 @@ form p{
   font-size: 12pt;
 }
 
+form label{
+  font-weight: bold;
+}
+
+form .message{
+  height: 400px;
+}
