@@ -393,7 +393,7 @@ h5 {
 
             }
             .w1 table tr:nth-child(even) td{
-              color: skyblue;
+              background-color: skyblue;
             }
            
  
