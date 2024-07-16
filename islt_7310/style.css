@@ -358,7 +358,7 @@ h5 {
               grid-column: 1/6;
               Grid-row:3;
               width: 100%;
-              height: 800px;
+              height: 1600px;
               background-color:whitesmoke;
               border: 10px solid #9dbbb4;
             }
@@ -367,6 +367,33 @@ h5 {
               text-decoration:underline;
               color: #2C506B;
             }
+            .w1 table {
+              border-collapse: collapse;
+              width: 650px;
+              Height:800px;
+
+            }
+
+            .w1 table th{ 
+              text-align:left;
+              background-color: tan;
+              color: aliceblue;
+              padding-top: 10px;
+              padding-left: 5px;
+              padding-right: 5px;
+            }
+            .w1 table td{
+              border: 1px solid lemonchiffon; 
+              padding: 4px 8px;
+            }
+
+            .w1 table tr:nth-child(odd) td {
+              background-color:azure;
+
+            }
+
+ 
+            
 
             .w2 {
               grid-column: 2;
