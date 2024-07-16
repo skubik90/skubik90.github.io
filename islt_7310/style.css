@@ -375,20 +375,20 @@ h5 {
             }
 
             .w1 table th{ 
-              text-align:left;
-              background-color: tan;
-              color: aliceblue;
+              text-align:center;
+              background-color:azure;
+              color: skyblue;
               padding-top: 10px;
               padding-left: 5px;
               padding-right: 5px;
             }
             .w1 table td{
-              border: 1px solid lemonchiffon; 
+              border: 1px solid black; 
               padding: 4px 8px;
             }
 
             .w1 table tr:nth-child(odd) td {
-              background-color:azure;
+              background-color:cornflowerblue;
 
             }
 
