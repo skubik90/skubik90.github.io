@@ -376,7 +376,7 @@ h5 {
 
             .w1 table th{ 
               text-align:center;
-              background-color:azure;
+              background-color:rebeccapurple;
               color: black;
               padding-top: 10px;
               padding-left: 5px;
@@ -389,11 +389,11 @@ h5 {
             }
 
             .w1 table tr:nth-child(odd) td {
-              background-color:cornflowerblue;
+              background-color:plum;
 
             }
             .w1 table tr:nth-child(even) td{
-              background-color: skyblue;
+              background-color: lavender;
             }
            
  
