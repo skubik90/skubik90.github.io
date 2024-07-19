@@ -64,11 +64,24 @@ h5 {
           .d {
             grid-column: 3/4;
             grid-row: 3;
+            display: block;
             justify-content: center;
             background-color:#2C506B;
             border: 10px solid #9dbbb4;
             width:100%;
+            background-image:url(IMG_4948.jpg);
           }
+
+       .co{ 
+        
+        grid-column: 3/4;
+          grid-row: 3;
+          display: block;
+          justify-content: center;
+          background-color:#2C506B;
+          border: 10px solid #9dbbb4;
+          width:100%;
+        }
 
           footer {
             width:auto;
