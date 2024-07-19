@@ -33,7 +33,7 @@ main{
         border: 10px solid #9dbbb4;
         width: 100%;
         Height: 700px;
-        padding-top: 40px;
+        padding-top: 8px;
     }
     .b p{
       text-align: left;
@@ -51,7 +51,7 @@ main{
       .c video {
         width: 100px;
         height: 100px;
-        position:absolute;
+        position:left;
 
       }
       .e {
