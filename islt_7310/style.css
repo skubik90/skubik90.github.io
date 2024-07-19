@@ -120,6 +120,10 @@ h5 {
             justify-content: center;
             background-color:whitesmoke;
             border: 10px solid #9dbbb4;
+            width:100%;
+          }
+          .f p{
+            padding-left: 10px;
           }
 
           .g {  
@@ -127,6 +131,7 @@ h5 {
             grid-row: 3;
             background-color:whitesmoke;
             border: 10px solid #9dbbb4;
+            Width:100%;
 
 
 
