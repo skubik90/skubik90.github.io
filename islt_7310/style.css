@@ -55,8 +55,9 @@ h5 {
             grid-row: 3;
             display: flex;
             justify-content: center;
-            background-color:whitesmoke;
+            background-color:#2C506B;
             border: 10px solid #9dbbb4;
+            width: fit-content;
           }
 
           footer {
