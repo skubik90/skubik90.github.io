@@ -26,6 +26,26 @@ main{
         grid-row: 1;
 
       }
+      .b {
+        grid-column: 1/4;
+        grid-row: 2;
+        background-color:whitesmoke;
+        border: 10px solid #9dbbb4;
+        width: 100%;
+        Height: 500px;
+        padding-left: 20px;
+        padding-top: 40px;
+    }
+      .c {
+        grid-column: 1/4 ;
+        grid-row: 4 ;
+        background-color:whitesmoke;
+        border: 10px solid #9dbbb4;
+        padding-left: 20px;
+        padding-bottom: 30px;
+        width: 350px;
+        height: 800px;
+      }
       .e {
         grid-column: 1/4;
         grid-row: 9;
