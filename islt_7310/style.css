@@ -51,6 +51,7 @@ h5 {
         }
         .b p{
           padding-left: 20px;
+          padding-right: 20px;
         }
           .c {
             grid-column: 1/6 ;
