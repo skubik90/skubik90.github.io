@@ -21,19 +21,20 @@ h5 {
         grid-template-columns:1fr 1fr 1fr 1fr 1fr 1fr;
         grid-gap: 10px;
         background-color:#2C506B;
-        width: auto;
+        width: 100%;
       }
       
       .box {
-        padding: 10px;
+        padding: none;
         font-size: 12pt;
         margin-top: 15px;
-        width: 100%;
+       
         
         }
 
         .a { grid-column: 1/6;
           grid-row: 1;
+          width: 100%;
 
         }
 
@@ -453,7 +454,7 @@ h5 {
 
 a {
   text-decoration: none;
-  color: bisque;
+  color: cornflowerblue;
 
 
 }
