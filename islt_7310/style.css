@@ -47,12 +47,16 @@ h5 {
             border: 10px solid #9dbbb4;
             width: 100%;
             Height: 300px;
+            padding-left: 20px;
+            padding-top: 40px;
         }
           .c {
             grid-column: 1/6 ;
             grid-row: 4 ;
             background-color:whitesmoke;
             border: 10px solid #9dbbb4;
+            padding-left: 20px;
+            padding-bottom: 30px;
           }
           .d {
             grid-column: 3/4;
