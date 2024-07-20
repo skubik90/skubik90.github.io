@@ -70,7 +70,6 @@ h5 {
             border: 10px solid #9dbbb4;
             width: 350px;
             height: 350px;
-            background-image:url(IMG_4948.jpg);
           }
 
        .co{ 
@@ -79,8 +78,10 @@ h5 {
           grid-row: 3;
           background-color:#2C506B;
           border: 10px solid #9dbbb4;
-          width: 400px;
+          width: 100%;
           height: 400px;
+          display: block;
+          justify-content: center;
         }
 
           footer {
