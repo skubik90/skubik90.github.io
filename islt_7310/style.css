@@ -48,6 +48,9 @@ h5 {
             width: 100%;
             Height: 400px;
             padding-top: 8px;
+            display: block;
+            justify-content: center;
+            padding-bottom: 30px;
         }
         .b p{
           padding-left: 20px;
