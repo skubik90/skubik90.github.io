@@ -46,7 +46,7 @@ h5 {
             background-color:whitesmoke;
             border: 10px solid #9dbbb4;
             width: 100%;
-            Height: 300px;
+            Height: 400px;
             padding-top: 8px;
         }
         .b p{
@@ -74,14 +74,15 @@ h5 {
 
        .co{ 
         
-        grid-column: 3;
+        grid-column: 2/4;
           grid-row: 3;
           background-color:#2C506B;
-          border: 10px solid #9dbbb4;
           width: 100%;
           height: 400px;
           display: block;
           justify-content: center;
+          padding-bottom: 40px;
+          padding-left: 20px;
         }
 
           footer {
@@ -561,6 +562,8 @@ form{
   text-align: center;
   padding-left: 20px;
   padding-top: 20px;
+  justify-content: center;
+  display: block;
 
 }
 
