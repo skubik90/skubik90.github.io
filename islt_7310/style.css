@@ -595,7 +595,7 @@ form .message{
   grid-column: 3;
   grid-row: 3;
   background-color:#2C506B;
-  width: 1000px;
+  width: 100%;
   Height: 600px;
   padding-top: 8px;
   display: block;
