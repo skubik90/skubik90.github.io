@@ -592,8 +592,8 @@ form .message{
 }
 
 .z {
-  grid-column: 2/4;
-  grid-row: 2;
+  grid-column: 3;
+  grid-row: 3;
   background-color:whitesmoke;
   width: 1000px;
   Height: 600px;
