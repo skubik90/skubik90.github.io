@@ -590,3 +590,16 @@ form label{
 form .message{
   height: 400px;
 }
+
+.z {
+  grid-column: 2/4;
+  grid-row: 2;
+  background-color:whitesmoke;
+  width: 1000px;
+  Height: 600px;
+  padding-top: 8px;
+  display: block;
+  justify-content: center;
+  padding-bottom: 30px;
+  padding-left: 50px;
+}
